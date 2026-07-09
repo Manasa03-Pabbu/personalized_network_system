@@ -203,19 +203,19 @@ Example output:
 
 ## 👨‍💻 Author
 
-**Syed Mohammad Sameer**
+**Pabbu Naga Satya Manasa**
 
-Email : syedsame2244@gmail.com
+Email : manasapabbu17@gmail.com
 
-Roll No. : 23HM1A3354
+Roll No. : 23P31A05H7
 
-B.Tech CSE (AI & ML)
+B.Tech CSE
 
 Course : Google Cloud Generative AI
 
-AITS Kadapa
+ACET, Surampalem
 
-GitHub: https://github.com/samxiao0
+GitHub: https://github.com/Manasa03-Pabbu
 
 ---
 
